@@ -1,0 +1,31 @@
+Contents of /Users/wellsj/Desktop/Hailo-GMaps-Working/Hailo/Hailo-Prefix.pch
+4.1 (tags/Apple/clang-421.11.66) (based on LLVM 3.1svn)
+i386-apple-darwin12.2.1
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fvisibility=hidden
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-mios-simulator-version-min=5.0
+-iquote
+-iquote
+-I/Users/wellsj/Desktop/Hailo-GMaps-Working/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include
+-I/Users/wellsj/Desktop/Hailo-GMaps-Working/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include
+-I/Users/wellsj/Desktop/Hailo-GMaps-Working/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include
+-I/Users/wellsj/Desktop/Hailo-GMaps-Working/DerivedData/Hailo/Build/Products/Debug-iphonesimulator
+-F/Users/wellsj/Desktop/Hailo-GMaps-Working/DerivedData/Hailo/Build/Products/Debug-iphonesimulator
+SDK_PRODUCT_BUILD_VERSION=10A403

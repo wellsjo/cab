@@ -1,0 +1,27 @@
+Contents of /Users/wellsj/Desktop/Code/Hailo-Source/CordovaLib/CordovaLib_Prefix.pch
+
+arm-apple-darwin12.3.0
+-x
+objective-c
+-arch
+armv7s
+-fmessage-length=0
+-std=c99
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+-fstrict-aliasing
+-g
+-miphoneos-version-min=4.3
+-iquote
+-iquote
+-I/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos
+-DDEBUG
+-fno-objc-arc
+SDK_PRODUCT_BUILD_VERSION=10B141

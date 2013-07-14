@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVLogger.m \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVLogger.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVPlugin.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVAvailability.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDV.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVViewController.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVCordovaView.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/JSON/JSONKit.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVAccelerometer.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVBattery.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVCamera.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVCapture.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVFile.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVConnection.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVReachability.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVContact.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVContacts.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVDebug.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVDebugConsole.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVDevice.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVFileTransfer.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVLocation.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVNotification.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVSound.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVSplashScreen.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/NSData+Base64.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/UIDevice+Extensions.h

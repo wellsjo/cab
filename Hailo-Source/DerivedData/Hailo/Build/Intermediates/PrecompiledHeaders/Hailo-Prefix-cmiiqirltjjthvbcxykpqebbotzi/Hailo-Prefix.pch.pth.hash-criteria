@@ -1,0 +1,25 @@
+Contents of /Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Hailo-Prefix.pch
+
+arm-apple-darwin12.3.0
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+-fstrict-aliasing
+-g
+-fvisibility=hidden
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos/include
+-I/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos/usr/local/lib/include
+-I/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include
+-I/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos
+-F/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphoneos
+SDK_PRODUCT_BUILD_VERSION=10B141

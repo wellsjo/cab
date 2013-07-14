@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" type="text/css" href="css/apple.css" />
+
+		<script src="js/zepto.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/jqtouch.min.js" type="text/javascript" charset="utf-8"></script>
+        <title>Hailo</title>
+    </head>
+    <body onload="phone_ready();">
+
+		<div class="app" id="first_time_user" style="display:none;">
+			<div class="page_background">
+				<div class="intro_message">
+					<br/><h4>Welcome to Hailo!</h4><br/>
+					How would you like to use this application?
+				</div>
+				<a href="#menu "id="initiate_regular_user_button" class="gray_button">Find Rides</a>
+				<a href="#menu" id="initiate_cab_user_button" class="gray_button">Drive People</a>
+				<br/><br/><br/><br/><br/><br/><br/><br/>
+				<div class="intro_message">you will be able to change<br/> this later in settings</div>
+			</div>
+		</div>
+		<div class="app" id="menu">
+			<div class="page_background">
+				<span id="driver_intro_message" style="display:none;">
+					<br/><h4 style="font-size:28px;">Driver</h4><br/>
+					<div class="intro_message">red markers represent people looking for rides.<br/><br/>tap a marker to get information and confirm a ride</div>
+				</span>
+				<span id="regular_intro_message" style="display:none;">
+					<br/><h4 style="font-size:28px;">Passenger</h4><br/>
+					<div class="intro_message">drag the marker on the map to where you want to be picked up, then press "Okay".</div>
+				</span>
+			</div>
+			<button id="view_map_button"></button>
+			<a href="#settings" id="settings_button" class="gray_button slideup">Settings</a>
+		</div>
+		<div class="app" id="settings">
+			<a href="#menu" class="gray_button slidedown" style="position: absolute;top:1px; right:1px;">Close</a>
+			<div class="generic_background">
+				<br/><br/><br/>
+				<h3 id="settings_header"></h3><br/>
+				<button id="switch_to_d_button" class="light_red">Switch App To Driver Mode</button>
+				<button id="switch_to_p_button" class="light_red">Switch App To Passenger Mode</button>
+			</div>
+		</div>
+		<div class="app" id="cab_interface">
+			<a href="#menu" class="interface_menu_button">Back</a>
+			<button id="refresh_cab_map" >Refresh</button>
+			<div class="generic_background" id="hail_map_canvas" style="width:100%; height:100%; z-index: 5;">
+				<br/><br/><br/>Loading...
+			</div>
+		</div>
+		<div class="app" id="marker_info">
+			<a href="#cab_interface" id="hide_marker_popup" class="gray_button slidedown" style="position: absolute;top:1px; right:1px;">Close</a>
+			<div class="marker_background">
+				<br/><br/><br/><br/>Pickup requested<br/>
+				<h3 id="marker_title"></h3>
+				<br/><br/><br/><br/>
+				<button class="light_green" id="pick_up_button">Pick This Person Up</button><br/><br/>
+				<a href="#menu" class="light_red slidedown" id="cancel_pickup_button">Cancel Ride</a>
+			</div>
+		</div>
+		<div class="app" id="hailo_interface">
+			<a href="#menu" class="interface_menu_button">Back</a>
+			<a href="#after_marker_chosen" id="hail_cab_button" class="slide_left">Okay</a>
+			<div class="generic_background" id="map_canvas" style="width:100%; height:100%; z-index: 5;">
+				<br/><br/><br/>Loading...
+			</div>
+		</div>
+		<div class="app" id="after_marker_chosen">
+			<a href="#hailo_interface" id="back_to_hailo_button" class="slideright">Back</a>
+			<div class="generic_background">
+				<br/><br/><br/>
+				<div class="intro_message">When would you like to be picked up?</div>
+				<div id="time_option_1" data-increment="0" class="gray_button time_selected" style="margin-top:30px;">right now</div>
+				<div id="time_option_2" data-increment="5" class="gray_button">5 minutes from now</div>
+				<div id="time_option_3" data-increment="10" class="gray_button">10 minutes from now</div>
+			</div>
+			<a href="#after_hail" id="find_ride_button" class="light_green slideup">Find Ride</a>
+		</div>
+		<div class="app" id="after_hail">
+			<div class="generic_background">
+				<div id="after_hail_message"></div>
+				<div id="map_canvas_2" style="width:100%; height:100%; z-index: 5;">Loading...</div>
+			</div>
+			<a href="#menu" id="cancel_ride_button" class="light_red slidedown">Cancel Request</a>
+		</div>
+        <script type="text/javascript" src="cordova-2.2.0.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+		<script type="text/javascript">
+			var userAgent = navigator.userAgent.toLowerCase();
+			var isiPhone = (userAgent.indexOf('iphone') != -1 || userAgent.indexOf('ipod') != -1) ? true : false;
+			clickEvent = isiPhone ? 'tap' : 'click';
+			google = false;
+		</script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5Df7UZ1rph7NLC5vnb_vRenZIjwk_kw8&sensor=true"></script>
+    </body>
+</html>
