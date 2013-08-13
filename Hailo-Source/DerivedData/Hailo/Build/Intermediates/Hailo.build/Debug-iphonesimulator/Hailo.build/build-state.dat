@@ -2,33 +2,33 @@ THailo
 v5
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist Hailo/Hailo-Info.plist
-cPhaseScriptExecution "Touch www folder" /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
-cCopyPlistFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist Hailo/Resources/../Cordova.plist
-cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/en.lproj/Localizable.strings Hailo/Resources/en.lproj/Localizable.strings
-cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/es.lproj/Localizable.strings Hailo/Resources/es.lproj/Localizable.strings
+cProcessInfoPlistFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist Hailo/Hailo-Info.plist
+cPhaseScriptExecution "Touch www folder" /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
+cCopyPlistFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist Hailo/Resources/../Cordova.plist
 cCpResource www DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www
-cCpResource Hailo/Resources/icons/icon@2x.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon@2x.png
-cCpResource Hailo/Resources/icons/icon.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon.png
+cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/en.lproj/Localizable.strings Hailo/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/es.lproj/Localizable.strings Hailo/Resources/es.lproj/Localizable.strings
 cCpResource Hailo/Resources/Capture.bundle DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Capture.bundle
 cCpResource Hailo/Resources/icons/icon-72.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon-72.png
-cCompileXIB /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.xib
-cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/de.lproj/Localizable.strings Hailo/Resources/de.lproj/Localizable.strings
-cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/se.lproj/Localizable.strings Hailo/Resources/se.lproj/Localizable.strings
-cCpResource Hailo/Resources/splash/Default-Landscape~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Landscape~ipad.png
+cCpResource Hailo/Resources/icons/icon.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon.png
+cCpResource Hailo/Resources/icons/icon@2x.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon@2x.png
+cCompileXIB /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.xib
+cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/se.lproj/Localizable.strings Hailo/Resources/se.lproj/Localizable.strings
+cCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/de.lproj/Localizable.strings Hailo/Resources/de.lproj/Localizable.strings
 cCpResource Hailo/Resources/splash/Default-Landscape@2x~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Landscape@2x~ipad.png
-cCpResource Hailo/Resources/splash/Default@2x~iphone.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default@2x~iphone.png
-cCpResource Hailo/Resources/splash/Default-Portrait~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Portrait~ipad.png
+cCpResource Hailo/Resources/splash/Default-Landscape~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Landscape~ipad.png
 cCpResource Hailo/Resources/splash/Default-Portrait@2x~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Portrait@2x~ipad.png
-cCpResource Hailo/Resources/splash/Default~iphone.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png
+cCpResource Hailo/Resources/splash/Default-Portrait~ipad.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Portrait~ipad.png
+cCpResource Hailo/Resources/splash/Default@2x~iphone.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default@2x~iphone.png
 cCpResource Hailo/Resources/splash/Default-568h@2x~iphone.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-568h@2x~iphone.png
-cProcessPCH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-cbbxswindedfstbgkdiwofxecxig/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386
-cGenerateDSYMFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
-cTouch /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
+cCpResource Hailo/Resources/splash/Default~iphone.png DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png
+cProcessPCH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386
+cGenerateDSYMFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
+cTouch /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
 c00000000509925CB0000000000000110
@@ -1233,54 +1233,54 @@ t1373819843
 s340
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVAvailability.h
-c0000000050EDA8470000000000000A9E
-t1357752391
-s2718
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVCommandDelegate.h
-c0000000050EDA8470000000000000865
-t1357752391
-s2149
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVCordovaView.h
-c0000000050EDA847000000000000034E
-t1357752391
-s846
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVInvokedUrlCommand.h
-c0000000050EDA84700000000000006DE
-t1357752391
-s1758
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVPlugin.h
-c0000000050EDA84700000000000008FD
-t1357752391
-s2301
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVPluginResult.h
-c0000000050EDA8470000000000000989
-t1357752391
-s2441
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h
-c0000000050EDA8470000000000000AD8
-t1357752391
-s2776
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVWhitelist.h
-c0000000050EDA84700000000000004AA
-t1357752391
-s1194
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/JSONKit.h
-c0000000050EDA8470000000000002F65
-t1357752391
-s12133
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/NSMutableArray+QueueAdditions.h
-c0000000050EDA84700000000000003A0
-t1357752391
-s928
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/libCordova.a
 c0000000051E2CF410000000000321368
@@ -1288,24 +1288,24 @@ t1373818689
 s3281768
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.h
-c0000000050EB335A00000000000005AF
-t1357591386
-s1455
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m
-c0000000050EB335A000000000000159C
-t1357591386
-s5532
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.h
-c0000000050EB335A000000000000040A
-t1357591386
-s1034
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m
-c0000000050EB335A00000000000012EF
-t1357591386
-s4847
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.xib
 c0000000050EB335A0000000000001759
@@ -1398,13 +1398,246 @@ t1357591386
 s93897
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m
-c0000000050EB335A0000000000000457
-t1357591386
-s1111
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/wellsj/Desktop/Projects/Hailo-Source/www
 c0000000051E2D3C30000000000000176
 t1373819843
+s374
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o
+t1373818689
+s96704
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/Hailo.LinkFileList
+c00000000520A965300000000000001F8
+t1376425555
+s504
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o
+t1373818689
+s76896
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o
+t1373818689
+s3088
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
+c0000000050EDA8480000000000000027
+t1357752392
+s39
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth
+t2
+s0
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
+t1373819843
+s782
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM
+t1373818689
+s102
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Capture.bundle
+t1360482928
+s782
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist
+t1357804387
+s1010
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-568h@2x~iphone.png
+t1357752392
+s351931
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Landscape@2x~ipad.png
+t1357752392
+s1534088
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Landscape~ipad.png
+t1357752392
+s423095
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Portrait@2x~ipad.png
+t1357752392
+s1610434
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default-Portrait~ipad.png
+t1357752392
+s421667
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default@2x~iphone.png
+t1357752392
+s350593
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png
+t1357752392
+s93897
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
+t1373818689
+s832736
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist
+t1359500942
+s1018
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/MainViewController.nib
+t1359500943
+s822
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/PkgInfo
+t1359500942
+s8
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/de.lproj/Localizable.strings
+t1357752392
+s256
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/en.lproj/Localizable.strings
+t1357752392
+s142
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/es.lproj/Localizable.strings
+t1357752392
+s308
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon-72.png
+t1357752392
+s4944
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon.png
+t1357752392
+s3902
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/icon@2x.png
+t1357752392
+s7869
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/se.lproj/Localizable.strings
+t1357752392
+s259
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www
+t1373819843
+s340
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/libCordova.a
+c00000000520A965300000000003215E8
+t1376425555
+s3282408
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m
+c0000000050EB335A000000000000159C
+t1357591386
+s5532
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m
+c0000000050EB335A00000000000012EF
+t1357591386
+s4847
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.xib
+c0000000050EB335A0000000000001759
+t1357591386
+s5977
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Hailo-Prefix.pch
+c0000000050EB335A00000000000003BB
+t1357591386
+s955
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/../Cordova.plist
+c0000000050EE73620000000000000768
+t1357804386
+s1896
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/Capture.bundle
+c0000000050F03FA9000000000000030E
+t1357922217
+s782
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/de.lproj/Localizable.strings
+c0000000050EB335A0000000000000485
+t1357591386
+s1157
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/en.lproj/Localizable.strings
+c0000000050EB335A0000000000000470
+t1357591386
+s1136
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/es.lproj/Localizable.strings
+c0000000050EB335A000000000000047D
+t1357591386
+s1149
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/icons/icon-72.png
+c0000000050EB335A0000000000001350
+t1357591386
+s4944
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/icons/icon.png
+c0000000050EB335A0000000000000F3E
+t1357591386
+s3902
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/icons/icon@2x.png
+c0000000050EB335A0000000000001EBD
+t1357591386
+s7869
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/se.lproj/Localizable.strings
+c0000000050EB335A0000000000000471
+t1357591386
+s1137
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default-568h@2x~iphone.png
+c0000000050EB335A0000000000055EBB
+t1357591386
+s351931
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000050EB335A0000000000176888
+t1357591386
+s1534088
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default-Landscape~ipad.png
+c0000000050EB335A00000000000674B7
+t1357591386
+s423095
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000050EB335A00000000001892C2
+t1357591386
+s1610434
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default-Portrait~ipad.png
+c0000000050EB335A0000000000066F23
+t1357591386
+s421667
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default@2x~iphone.png
+c0000000050EB335A0000000000055981
+t1357591386
+s350593
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Resources/splash/Default~iphone.png
+c0000000050EB335A0000000000016EC9
+t1357591386
+s93897
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m
+c0000000050EB335A0000000000000457
+t1357591386
+s1111
+
+N/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/www
+c0000000051E2D4150000000000000176
+t1373819925
 s374
 
 NHailo/Hailo-Info.plist
@@ -1460,9 +1693,18 @@ r0
 CBuild AST from /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m
 r0
 
+CBuild AST from /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m
+r0
+
+CBuild AST from /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m
+r0
+
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3c672b950b93b741^eba72b950b93b741^---0#1#0#--18"Check dependencies36"5F3AABEE-421D-4072-A034-5317490365B1-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies238398d3cdbab741^1e1799d3cdbab741^---0#1#0#--18"Check dependencies36"AA978BE5-F0A0-486A-B654-F9229BD31798-
 
 CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o /Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s381722428.949579
@@ -1549,6 +1791,29 @@ o        if ([self.viewController supportsOrientation:curDevOrientation]) {
 o            ~                                        ^~~~~~~~~~~~~~~~~
 o2 warnings generated.
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m12da66c10693b741^2c7f76c10693b741^-1240"/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    self.viewController.invokeString = invokeString;                        ^/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m:87:54: warning: implicit conversion from enumeration type 'UIDeviceOrientation' (aka 'enum UIDeviceOrientation') to different enumeration type 'UIInterfaceOrientation' (aka 'enum UIInterfaceOrientation') [-Wenum-conversion]        if ([self.viewController supportsOrientation:curDevOrientation]) {            ~                                        ^~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-395511489#18446744073709551615#0#1(2@28"'invokeString' declared here-395511489#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^72#24#72#24#2380#0#12"Deprecations--2@187"Implicit conversion from enumeration type 'UIDeviceOrientation' (aka 'enum UIDeviceOrientation') to different enumeration type 'UIInterfaceOrientation' (aka 'enum UIInterfaceOrientation')-395511489#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#53#86#53#3156#0#22"Value Conversion Issue2(3@87"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#53#86#70#3156#0#3@87"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#12#86#13#3115#0#-0#0#0#-19%DVTDocumentLocation4@87"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^3896"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-cbbxswindedfstbgkdiwofxecxig/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.dia -c /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/AppDelegate.m -o /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o36"E7DDB0EE-6AEB-4901-A04C-81B9CC3EB2A9-
+
+CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398118355.980644
+e398118356.033113
+r1
+xCompileC
+xDerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o    self.viewController.invokeString = invokeString;
+o                        ^
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");
+o                                                 ^
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m:87:54: warning: implicit conversion from enumeration type 'UIDeviceOrientation' (aka 'enum UIDeviceOrientation') to different enumeration type 'UIInterfaceOrientation' (aka 'enum UIInterfaceOrientation') [-Wenum-conversion]
+o        if ([self.viewController supportsOrientation:curDevOrientation]) {
+o            ~                                        ^~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m4e25fbd3cdbab741^7d7a08d4cdbab741^-1258"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    self.viewController.invokeString = invokeString;                        ^/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m:87:54: warning: implicit conversion from enumeration type 'UIDeviceOrientation' (aka 'enum UIDeviceOrientation') to different enumeration type 'UIInterfaceOrientation' (aka 'enum UIInterfaceOrientation') [-Wenum-conversion]        if ([self.viewController supportsOrientation:curDevOrientation]) {            ~                                        ^~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-398118356#18446744073709551615#0#1(2@28"'invokeString' declared here-398118356#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@104"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^72#24#72#24#2380#0#12"Deprecations--2@187"Implicit conversion from enumeration type 'UIDeviceOrientation' (aka 'enum UIDeviceOrientation') to different enumeration type 'UIInterfaceOrientation' (aka 'enum UIInterfaceOrientation')-398118356#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#53#86#53#3156#0#22"Value Conversion Issue2(3@93"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#53#86#70#3156#0#3@93"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^86#12#86#13#3115#0#-0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m0000000000000000^3998"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o Hailo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.dia -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/AppDelegate.m -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AppDelegate.o36"13B7FDC1-B816-4F23-A2C9-601160B9C9B7-
 
 CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/AsyncImageView.o /Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Plugins/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s379547508.955651
@@ -1663,6 +1928,32 @@ o                                                 ^
 o2 warnings generated.
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m3cd866c10693b741^e3c774c10693b741^-1677"/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m:125:14: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    if (self.invokeString) {             ^/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m:128:93: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];                                                                                            ^/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-395511489#18446744073709551615#0#1(2@28"'invokeString' declared here-395511489#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@94"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^124#13#124#13#3600#0#12"Deprecations--2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-395511489#18446744073709551615#0#1(2@28"'invokeString' declared here-395511489#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@94"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^127#92#127#92#4011#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^3938"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o Hailo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-cbbxswindedfstbgkdiwofxecxig/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.dia -c /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.m -o /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o36"AE43E149-483C-408B-B428-99D2BB7F5A48-
 
+CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398118355.980660
+e398118356.028609
+r1
+xCompileC
+xDerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m:125:14: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o    if (self.invokeString) {
+o             ^
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");
+o                                                 ^
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m:128:93: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];
+o                                                                                            ^
+o/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");
+o                                                 ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m8125fbd3cdbab741^225207d4cdbab741^-1701"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m:125:14: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    if (self.invokeString) {             ^/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m:128:93: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];                                                                                            ^/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-398118356#18446744073709551615#0#1(2@28"'invokeString' declared here-398118356#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@104"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@100"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^124#13#124#13#3600#0#12"Deprecations--2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-398118356#18446744073709551615#0#1(2@28"'invokeString' declared here-398118356#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@100"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^127#92#127#92#4011#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m0000000000000000^4040"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o Hailo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.dia -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.m -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MainViewController.o36"5071F0D0-BEE9-4BA7-8CA4-A9D7832E6AEB-
+
 CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/MapKit.o /Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Plugins/MapKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s379547508.955673
 e379547508.967550
@@ -1760,6 +2051,19 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m2cd866c10693b741^656d6bc10693b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m0000000000000000^3838"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o Hailo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-cbbxswindedfstbgkdiwofxecxig/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.dia -c /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m -o /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o36"63C3C1D1-A982-4D1A-A0B2-26B6B8FB092D-
 
+CCompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398118355.980636
+e398118355.999322
+r1
+xCompileC
+xDerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m0b25fbd3cdbab741^56d5ffd3cdbab741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m0000000000000000^3940"CompileC DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o Hailo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -include /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.dia -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/main.o36"B992F7FD-1BE7-44CD-80C8-BA01220178C0-
+
 CCompileXIB /Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Classes/MainViewController.xib
 s381193742.051671
 e381193743.985412
@@ -1778,6 +2082,9 @@ r0
 CCompileXIB /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Classes/MainViewController.xib
 r0
 
+CCompileXIB /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Classes/MainViewController.xib
+r0
+
 CCopyPlistFile /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist Hailo/Resources/../Cordova.plist
 s379497187.147378
 e379497187.149883
@@ -1794,6 +2101,9 @@ CCopyPlistFile /Users/wellsj/Desktop/Hailo-Without-MapKit2/DerivedData/Hailo/Bui
 r0
 
 CCopyPlistFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist Hailo/Resources/../Cordova.plist
+r0
+
+CCopyPlistFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Cordova.plist Hailo/Resources/../Cordova.plist
 r0
 
 CCopyStringsFile /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/de.lproj/Localizable.strings Hailo/Resources/de.lproj/Localizable.strings
@@ -1866,6 +2176,18 @@ CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/B
 r0
 
 CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/se.lproj/Localizable.strings Hailo/Resources/se.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/de.lproj/Localizable.strings Hailo/Resources/de.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/en.lproj/Localizable.strings Hailo/Resources/en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/es.lproj/Localizable.strings Hailo/Resources/es.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/se.lproj/Localizable.strings Hailo/Resources/se.lproj/Localizable.strings
 r0
 
 CCpResource Hailo/Resources/Capture.bundle DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Capture.bundle
@@ -1968,13 +2290,13 @@ xDerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png259690c8df9db641^700891c8df9db641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png000000000080d041^684"CpResource "Hailo/Resources/splash/Default~iphone.png" "DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Default~iphone.png"    cd /Users/wellsj/Desktop/Code/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/wellsj/Desktop/Code/Hailo-Source/Hailo/Resources/splash/Default~iphone.png" /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app36"717131C2-9B42-407D-885C-235E0BB9B23B-
 
 CCpResource www DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www
-s395512643.170606
-e395512643.183598
+s398118355.656442
+e398118355.766630
 r1
 xCpResource
 xwww
 xDerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/wwwa9be2b430b93b741^0c022f430b93b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www/0000000000000000^599"CpResource www DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wellsj/Desktop/Projects/Hailo-Source/www /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app36"218D5AF5-1414-466C-BC64-F3CFE596A11A-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www6e34a8d3cdbab741^4242c4d3cdbab741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www/0000000000000000^617"CpResource www DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/www    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/www /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app36"588B33F0-DF75-465F-B5BB-806C901B7343-
 
 CGenerateDSYMFile /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
 s381722429.155148
@@ -2011,6 +2333,15 @@ xGenerateDSYMFile
 x/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM
 x/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYMb16db1c10693b741^9faacac10693b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM/0000000000000000^736"GenerateDSYMFile DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo -o /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM36"DB944BC4-D63F-47EF-BF73-027400D0D270-
+
+CGenerateDSYMFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
+s398118356.253477
+e398118356.352832
+r1
+xGenerateDSYMFile
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Generate /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYMbaf740d4cdbab741^b9535ad4cdbab741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM/0000000000000000^754"GenerateDSYMFile DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app.dSYM36"36406ED4-CEE2-4CD9-84F5-DF6F2B94C26D-
 
 CLd /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386
 s381722429.009690
@@ -2052,6 +2383,16 @@ xnormal
 xi386
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailoee4178c10693b741^86caafc10693b741^---0#0#0#--1821"Ld DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -F/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -filelist /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/Hailo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo36"3392519C-CAF7-40AE-950A-2F10539C1BA2-
 
+CLd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386
+s398118356.039997
+e398118356.246658
+r1
+xLd
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailob5c40ad4cdbab741^1c253fd4cdbab741^---0#0#0#--1857"Ld DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo normal i386    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -F/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -filelist /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/Hailo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Hailo36"92FB0792-B741-459D-BBBD-3D7EE1FBB8B0-
+
 CPhaseScriptExecution "Touch www folder" /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
 s382542150.873234
 e382542150.903657
@@ -2088,6 +2429,15 @@ xTouch www folder
 x/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'8e7931950b93b741^575c34950b93b741^---0#0#0#--21601"PhaseScriptExecution "Touch www folder" DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER wellsj    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products    setenv BUILD_ROOT /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Hailo.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH Hailo.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Hailo.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME Hailo.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Hailo.app/Executables    setenv EXECUTABLE_FOLDER_PATH Hailo.app    setenv EXECUTABLE_NAME Hailo    setenv EXECUTABLE_PATH Hailo.app/Hailo    setenv FILE_LIST /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Hailo.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Hailo.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Hailo/Hailo-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include\" \"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include\" \"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include\" \"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Hailo/Hailo-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Hailo.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH Hailo.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Hailo.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER wellsj    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/Hailo.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Hailo.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/Hailo.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH Hailo.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal    setenv OBJROOT /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Hailo.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/PkgInfo    setenv PKGINFO_PATH Hailo.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Hailo.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Hailo.app/PrivateHeaders    setenv PRODUCT_NAME Hailo    setenv PRODUCT_SETTINGS_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/Hailo-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Hailo    setenv PROJECT_DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/DerivedSources    setenv PROJECT_DIR /Users/wellsj/Desktop/Projects/Hailo-Source    setenv PROJECT_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo.xcodeproj    setenv PROJECT_NAME Hailo    setenv PROJECT_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build    setenv PROJECT_TEMP_ROOT /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH Hailo.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Hailo.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Hailo.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Hailo.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/wellsj/Desktop/Projects/Hailo-Source    setenv SRCROOT /Users/wellsj/Desktop/Projects/Hailo-Source    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME Hailo    setenv TARGET_BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME Hailo    setenv TARGET_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_ROOT /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Hailo.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER wellsj    setenv USER_APPS_DIR /Users/wellsj/Applications    setenv USER_LIBRARY_DIR /Users/wellsj/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Hailo.app/version.plist    setenv VERSION_INFO_BUILDER wellsj    setenv VERSION_INFO_FILE Hailo_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Hailo  PROJECT:Hailo-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Hailo.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H127    setenv XCODE_VERSION_ACTUAL 0460    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh36"2830B92F-AC40-4E2E-AC82-B402763BCE9F-
 
+CPhaseScriptExecution "Touch www folder" /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
+s398118355.611497
+e398118355.648233
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'de389dd3cdbab741^f1f1a5d3cdbab741^---0#0#0#--21889"PhaseScriptExecution "Touch www folder" DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER wellsj    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products    setenv BUILD_ROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/xd/1m04sc354j3bqfkrlvg8tc200000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Hailo.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH Hailo.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Hailo.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME Hailo.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Hailo.app/Executables    setenv EXECUTABLE_FOLDER_PATH Hailo.app    setenv EXECUTABLE_NAME Hailo    setenv EXECUTABLE_PATH Hailo.app/Hailo    setenv FILE_LIST /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Hailo.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Hailo.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Hailo/Hailo-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include\" \"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include\" \"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include\" \"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Hailo/Hailo-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Hailo.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH Hailo.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Hailo.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER wellsj    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/Hailo.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Hailo.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal/i386/Hailo.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH Hailo.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Objects-normal    setenv OBJROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Hailo.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/PkgInfo    setenv PKGINFO_PATH Hailo.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Hailo.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Hailo.app/PrivateHeaders    setenv PRODUCT_NAME Hailo    setenv PRODUCT_SETTINGS_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Hailo-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Hailo    setenv PROJECT_DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/DerivedSources    setenv PROJECT_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv PROJECT_FILE_PATH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo.xcodeproj    setenv PROJECT_NAME Hailo    setenv PROJECT_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build    setenv PROJECT_TEMP_ROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH Hailo.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Hailo.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Hailo.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Hailo.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv SRCROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME Hailo    setenv TARGET_BUILD_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME Hailo    setenv TARGET_TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_FILES_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_FILE_DIR /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build    setenv TEMP_ROOT /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Hailo.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER wellsj    setenv USER_APPS_DIR /Users/wellsj/Applications    setenv USER_LIBRARY_DIR /Users/wellsj/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Hailo.app/version.plist    setenv VERSION_INFO_BUILDER wellsj    setenv VERSION_INFO_FILE Hailo_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Hailo  PROJECT:Hailo-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Hailo.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H127    setenv XCODE_VERSION_ACTUAL 0460    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Script-304B58A110DAC018002A0835.sh36"F1F0D6F5-E39D-4129-A469-EEBB32E3CA8B-
+
 CProcessInfoPlistFile /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist Hailo/Hailo-Info.plist
 s381193742.016943
 e381193742.019733
@@ -2104,6 +2454,9 @@ CProcessInfoPlistFile /Users/wellsj/Desktop/Hailo-Without-MapKit2/DerivedData/Ha
 r0
 
 CProcessInfoPlistFile /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist Hailo/Hailo-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app/Info.plist Hailo/Hailo-Info.plist
 r0
 
 CProcessPCH /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-bpsxmtaaajdltjcwguppziracoss/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -2186,6 +2539,22 @@ lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precomp
 CProcessPCH /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Index/PrecompiledHeaders/Hailo-Prefix-gxpnvgzqizjiqxcdatmbvwfabydh_ast/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
+CProcessPCH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398118355.774541
+e398118355.973662
+r1
+xProcessPCH
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth
+xHailo/Hailo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Hailo/Hailo-Prefix.pchc85fc6d3cdbab741^1344f9d3cdbab741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Hailo-Prefix.pch0000000000000000^3826"ProcessPCH DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-generated-files.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-own-target-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-all-target-headers.hmap -iquote /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/Hailo-project-headers.hmap -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/UninstalledProducts/include -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources/i386 -I/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/Hailo.build/Debug-iphonesimulator/Hailo.build/DerivedSources -F/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.dia -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/Hailo-Prefix.pch -o /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Intermediates/PrecompiledHeaders/Hailo-Prefix-aygsdcoobnkwmichuauimggifyuo/Hailo-Prefix.pch.d36"566DF023-637C-49F2-81CF-5CC4FDF49C6A-
+
+CProcessPCH /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Index/PrecompiledHeaders/Hailo-Prefix-gcaxgqggxajlfdbdoudtykymxuak_ast/Hailo-Prefix.pch.pth Hailo/Hailo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
 CTouch /Users/wellsj/Desktop/Code/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
 s382542151.026023
 e382542151.031324
@@ -2217,4 +2586,12 @@ r1
 xTouch
 x/Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app3aea38430b93b741^83503a430b93b741^---0#0#0#--448"Touch DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app    cd /Users/wellsj/Desktop/Projects/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wellsj/Desktop/Projects/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app36"36D3FE44-01D8-4DEC-A5E4-8E6CD1714292-
+
+CTouch /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
+s398118356.361214
+e398118356.366572
+r1
+xTouch
+x/Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Touch /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.appe8885cd4cdbab741^99d75dd4cdbab741^---0#0#0#--460"Touch DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app    cd /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/DerivedData/Hailo/Build/Products/Debug-iphonesimulator/Hailo.app36"E8ACBEA1-5C91-4740-BAF8-ED98A1E01229-
 

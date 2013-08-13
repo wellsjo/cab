@@ -1,1 +1,2 @@
-dependencies: /Users/wellsj/Desktop/Projects/Hailo-Source/Hailo/main.m
+dependencies: \
+  /Users/wellsj/Desktop/Projects/Hailo/Hailo-Source/Hailo/main.m
